@@ -14,7 +14,7 @@ For more info about Flet, click this ![link](https:flet.dev)
 1. Open terminal and clone this repo using Git.
    ```bash
    cd Desktop    # or your preferred location 
-   git clone https://github.com/morikeli/django-flet-todo-app.git
+   git clone https://github.com/georges-mars/django-flet-todo-app.git
    ```
 2. Open the cloned repo in your preferred IDE or code editor, e.g VS Code.
 3. Open terminal, activate a virtual environment and install Python modules.
