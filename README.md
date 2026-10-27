@@ -43,3 +43,6 @@ Once the app is executed, type a task you plan to do, in the text field. Click t
 ## Contribution
 The project is no longer maintained because I switched from Flet to Flutter. If you face any issue, kindly do research on how the problem can be solved.
 
+## Source and attribution
+
+This independent repository is a copy of [morikeli/django-flet-todo-app](https://github.com/morikeli/django-flet-todo-app). The original Git commit history, authorship, and existing license notices have been preserved. Credit for the original project belongs to its original authors and contributors. This copy is maintained by [georges-mars](https://github.com/georges-mars).
